@@ -39,5 +39,5 @@ a = float(input("Nhap so a: "))
 b = float(input("Nhap so b: "))
 
 # In ket qua dung f-string
-print(f"Hoc sinh: name")
+print(f"Hoc sinh: {name}")
 print(f"Tong: {a + b} | Hieu: {a - b} | Tich: {a * b}")
